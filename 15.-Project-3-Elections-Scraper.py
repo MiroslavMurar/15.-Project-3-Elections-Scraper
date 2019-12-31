@@ -151,4 +151,5 @@ def main():
     formatted_table = format_table(election_tables, election_parties)
     write_election_table(formatted_table)
 
+
 main()
